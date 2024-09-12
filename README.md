@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **30days30 projects**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development,** and really enthusiastic about **DataScience and GenAI.**
 
 - 👯 I’m looking to collaborate with **other Techies**
 
